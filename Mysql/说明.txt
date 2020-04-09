@@ -1,0 +1,2 @@
+1.现在mysql中创建数据库hut-helper 并使用UTF-8编码
+2.然后对hut-helper数据库输入此sql文件
